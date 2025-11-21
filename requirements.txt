@@ -1,0 +1,14 @@
+requests
+python-dotenv
+torch
+transformers
+datasets
+pandas
+scikit-learn
+evaluate
+accelerate
+sentencepiece
+streamlit
+watchdog
+protobuf
+sacrebleu
